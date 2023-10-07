@@ -7,4 +7,4 @@
 <p>Objetivo:replicar la siguiente página principal con lo visto en clase hasta el momento</p>
 <p>Se recomienda usar bootstrap, en nuestro caso usarmoes Bootstrap v5.3.2</p>
 
-<img source="./img/final_front_2021.jpg" />
+<img src="./img/final_front_2021.jpg" />
