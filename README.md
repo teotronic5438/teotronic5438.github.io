@@ -1,6 +1,6 @@
 # TP Integrador Frontend
 
-## Comision 23558 - Alumno: Elias Orihuela
+## Comision 23558
 
 ## Sitio Web
 <a href="teotronic5438.github.io">teotronic5438.github.io</a>
