@@ -25,3 +25,8 @@
     color: #fff;
     text-align: end;
 }
+.pie{
+    height: 5vh;
+    background-image: linear-gradient(to right, #1D3744 , #1E5372);
+    color: #fff;
+}
