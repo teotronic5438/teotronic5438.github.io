@@ -9,3 +9,19 @@
 #navbarSupportedContent #ticket{
     color: #18fc03;
 }
+
+#carrusel .carousel-item img{
+    height: 80vh;
+    filter: brightness(0.5);
+}
+
+#carrusel .texto-carrusel{
+    position: absolute;
+    width: 28vw;
+    right: 9%;
+    bottom: 22%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: end;
+}
